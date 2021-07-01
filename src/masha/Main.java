@@ -11,7 +11,7 @@ public class Main {
        int z = x + x1;
        int v = x - x1;
        System.out.println("Сложение: "+ x+ " + " +x1+ " " + "= " + z);
-       System.out.println("Вычитание: "+ x+ " - " +x1+ " " + "= " + v);
+      // System.out.println("Вычитание: "+ x+ " - " +x1+ " " + "= " + v);
 
     }
 }
